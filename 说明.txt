@@ -1,0 +1,17 @@
+http-equiv的作用
+
+浏览器兼容：
+	HTML5shiv（IE对HTML5的支持）和respond（IE8对css3媒体查询Media Query 的支持）
+	虚线要去掉吗（不去）
+
+对于carousel的具体字体细节设置
+
+row必须由于包含在container中
+
+data-toggle="tab"（role="tab"）
+
+5 7分（与三列在一个大container中）
+
+footer(是否一行是否在中间，写在div内还是外)
+
+dropdownlist的点击
