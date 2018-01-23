@@ -13,5 +13,3 @@ data-toggle="tab"（role="tab"）
 5 7分（与三列在一个大container中）
 
 footer(是否一行是否在中间，写在div内还是外)
-
-dropdownlist的点击
